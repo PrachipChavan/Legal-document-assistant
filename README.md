@@ -1,4 +1,5 @@
 # ⚖️ LegalDoc Assistant: AI-Powered Contract Intelligence
+<img width="1912" height="916" alt="image" src="https://github.com/user-attachments/assets/8d5b7ca7-f980-4860-b058-c4947382d8ae" />
 
 LegalDoc Assistant is a premium, state-of-the-art web application built with **Python**, **Streamlit**, and **Groq** to assist legal professionals, developers, and businesses in understanding, analyzing, and drafting contracts. By leveraging the ultra-fast reasoning capabilities of models like `llama-3.3-70b-versatile`, the assistant accelerates contract reviews, identifies hidden liabilities, and drafts custom agreements.
 
