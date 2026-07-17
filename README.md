@@ -90,11 +90,3 @@ Open **`http://localhost:8501`** in your browser to start analyzing documents!
 
 ---
 
-## ⚖️ Disclaimer
-
-**This software is an AI prototype and does not constitute formal legal advice.** The analysis, risk scores, and generated drafts are for educational and informational purposes only. Always consult a qualified attorney before signing or executing any legal document.
-
----
-
-## 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
